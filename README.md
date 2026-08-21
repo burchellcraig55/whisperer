@@ -7,6 +7,8 @@ Push-to-talk dictation for your desktop. Hold the record key (**right Ctrl** by 
 - Python 3.11+
 - An OpenAI API key (not needed if you only use the local backend without translation)
 
+EDIT EDIT EDIT
+
 ## Install
 
 ```
