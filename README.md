@@ -2,6 +2,8 @@
 
 Push-to-talk dictation for your desktop. Hold the record key (**right Ctrl** by default, or **left Ctrl** if you set `record_key = "ctrl_l"`), speak, release — the audio is transcribed (OpenAI API or a local Whisper model) and pasted at your cursor, wherever it is...
 
+THIS IS ONLY ON THE NEW FEATURE
+
 ## Requirements
 
 - Python 3.11+
