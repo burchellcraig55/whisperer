@@ -1,7 +1,8 @@
 # Whisperer local settings. Copy this file to whisperer.toml and restart the app.
 # whisperer.toml is gitignored so your personal values stay local.
 
-# --- Hotkeys (pynput names like ctrl_r, shift_r, f13, or a single character) ---
+# --- Hotkeys (pynput names like ctrl_r, ctrl_l, shift_r, f13, or a single character) ---
+# Use "ctrl_l" on keyboards that have no right Ctrl.
 record_key = "ctrl_r"
 translate_key = "shift_r"
 email_key = "e"

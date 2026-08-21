@@ -9,7 +9,7 @@ from pynput.keyboard import Key, KeyCode, Listener
 
 
 def parse_key(key_name: str) -> Key | KeyCode:
-    """Turn a config string like 'ctrl_r' or 't' into a pynput key."""
+    """Turn a config string like 'ctrl_l' or 't' into a pynput key."""
     if len(key_name) == 1:
         return KeyCode.from_char(key_name)
     try:

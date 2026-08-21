@@ -3,6 +3,7 @@ output.flac
 openai_api_key.txt
 .env
 whisperer.toml
+MyWhisper.exe
 __pycache__/
 *.egg-info/
 .venv/
